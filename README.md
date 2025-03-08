@@ -1,12 +1,12 @@
 # CEK-KHODAM
 --
 # Description
-ini adalah aplikasi/codingan untuk seru-seruan. khodam yang muncul random
-# Fitur
-1. interface yang simple
-2. tombol yang simple
-# Disclaimer
-ini adalah codingan untuk seru-seruan. jangan menggunakan codingan ini tanpa tag pembuat nya 
+This is an application/coding for fun. Khodam that appears randomly
+• Features
+1. Simple interface
+2. Simple buttons
+• Disclaimer
+This is a coding for fun. Do not use this coding without the creator's tag
 --
-CODE BY : micolarighi
-REMAKE BY : HAZEL
+CODE BY: micolarighi
+REMAKE BY: HAZEL
