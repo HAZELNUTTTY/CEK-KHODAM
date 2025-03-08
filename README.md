@@ -1,6 +1,5 @@
 # CEK-KHODAM
---
-# Description
+• Description
 This is an application/coding for fun. Khodam that appears randomly
 • Features
 1. Simple interface
