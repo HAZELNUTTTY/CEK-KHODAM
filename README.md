@@ -10,6 +10,6 @@ This is an application/coding for fun. Khodam that appears randomly
 • Disclaimer
 This is a coding for fun. Do not use this coding without the creator's tag
 
---
-CODE BY: micolarighi
-REMAKE BY: HAZEL
+# CREATOR
+Creator : Hazel ,
+Testing & Optimization by : Hazelnut Team
